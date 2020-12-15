@@ -1,6 +1,6 @@
 .style:hover{
-    background-color: rgb(144, 151, 127);
-    transition: 0.2s;
+    background-color: rgb(210, 236, 148);
+    transition: 0.1s;
     opacity: 0.8;
 }
 *{
@@ -10,10 +10,11 @@
 #input{
     display: flex;
     align-items: flex-end;
-    background-color: rgb(98, 119, 106);
+    background-color: rgb(86, 114, 122);
     color: aliceblue;
+    text-align: right;
 }
 #input{
-    width: 980px;
+    width: 1040px;
     font-size: 35px;
 }
